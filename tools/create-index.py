@@ -200,12 +200,12 @@ def print_index():
 
     header = """---
 layout: default
-title: Morbergs receptsamling
+title: Receptsamling
 nav_order: 1
 ---
 """
     print(header)
-    print("# Morbergs receptsamling\n")
+    print("# Receptsamling\n")
     dirs = get_dirs()
     print_categories(dirs)
 
