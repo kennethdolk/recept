@@ -1,8 +1,8 @@
 ---
 layout: default
-title: Soppa
+title: Lchf
 has_children: true
-nav_order: 10
+nav_order: 7
 ---
 
-# Soppa
+# Lchf

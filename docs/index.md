@@ -85,6 +85,10 @@ nav_order: 1
 * [Salami- och pestofyllda rullader](Kött/salami-och-pestofyllda-rullader.md)
 * [Sloppy Joe med guacamole och picklad rödlök](Kött/sloppy-joe.md)
 
+## Lchf
+
+* [Omelettwrap-med-örtig-tonfiskröra](Lchf/omelettwrap-med-ortig-tonfiskrora.md)
+
 ## Pasta
 
 * [Pasta med bakad fetaost och tomater](Pasta/bakad-fetaost.md)
