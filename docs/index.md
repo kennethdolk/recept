@@ -33,6 +33,7 @@ nav_order: 1
 * [Hälleflundra med pumpa](Fisk/hälleflundra-med-pumpa.md)
 * [Inkokt lax med romsås och timjanmorötter](Fisk/inkokt-lax.md)
 * [Kallrökt lax med spetskålskräm](Fisk/lax-spetskålskräm.md)
+* [Laxfilé-i-söt-sojamarinad-med-varm-sallad](Fisk/laxfile-i-sot-sojamarinad-med-varm-sallad.md)
 * [Laxsallad med lime och jordnötter](Fisk/laxsallad-med-lime-och-jordnötter.md)
 * [Rödspätta Grenoble](Fisk/rödspätta-grenoble.md)
 * [Sushi](Fisk/sushi.md)
