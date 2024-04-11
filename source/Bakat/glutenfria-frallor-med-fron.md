@@ -1,18 +1,18 @@
-# Glutenfria-frallor-med-frön
+# Glutenfria-frallor-med-frÃ¶n
 **Serves:** 6 servings
 **Total Time:** 50 mins
 
 ## Ingredients
-- 50 g solrosfrön
-- 30 g sesamfrön
-- 30 g linfrön
+- 50 g solrosfrÃ¶n
+- 30 g sesamfrÃ¶n
+- 30 g linfrÃ¶n
 - 1 dl pofiber
 - 2 msk fiberhusk
 - 1 tsk bakpulver
-- 4 ägg
+- 4 Ã¤gg
 - 100 g grekisk yoghurt 10 %
 
 ## Instructions
-1. Blanda fröna med pofiber, fiberhusk och bakpulver.
-2. Rör ner ägg och yoghurt, låt degen vila i 10 min. 
-3. Forma med en sked degen till 6 bullar. Sätt dem på en plåt med bakplåtspapper. Grädda bröden på 250°, ca 10–12 min. Servera med smör och ost eller skinka. 
+1. Blanda frÃ¶na med pofiber, fiberhusk och bakpulver.
+2. RÃ¶r ner Ã¤gg och yoghurt, lÃ¥t degen vila i 10 min. 
+3. Forma med en sked degen till 6 bullar. SÃ¤tt dem pÃ¥ en plÃ¥t med bakplÃ¥tspapper. GrÃ¤dda brÃ¶den pÃ¥ 250Â°, ca 10â€“12 min. Servera med smÃ¶r och ost eller skinka. 
