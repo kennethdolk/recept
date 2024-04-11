@@ -4,7 +4,7 @@ title:  Laxfilé i söt sojamarinad med varm sallad
 parent: Fisk
 ---
 
-# Laxfilé-i-söt-sojamarinad-med-varm-sallad
+# Laxfilé i söt sojamarinad med varm sallad
 **Serves:** 2 servings
 **Total Time:** 35 mins
 
