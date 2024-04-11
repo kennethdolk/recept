@@ -12,6 +12,7 @@ nav_order: 1
 * [Chocolate Chip Cookies](Bakat/chocolate-chip-cookies.md)
 * [Chokladbollar](Bakat/chokladbollar.md)
 * [Focaccia](Bakat/focaccia.md)
+* [Glutenfria-frallor-med-frön](Bakat/glutenfria-frallor-med-fron.md)
 * [Hamburgerbröd](Bakat/hamburgerbröd.md)
 * [Kanelbullar](Bakat/kanelbullar.md)
 * [Kolakakor](Bakat/kolakakor.md)
