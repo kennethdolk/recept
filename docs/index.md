@@ -1,10 +1,10 @@
 ---
 layout: default
-title: Morbergs receptsamling
+title: Receptsamling
 nav_order: 1
 ---
 
-# Morbergs receptsamling
+# Receptsamling
 
 ## Bakat
 
