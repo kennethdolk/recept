@@ -9,7 +9,7 @@ import typer
 
 PANDOC_FRONTMATTER = r"""---
 author: Niklas Morberg
-title: Morbergs receptsamling
+title: Receptsamling
 documentclass: scrbook
 classoption:
 - titlepage=firstiscover
